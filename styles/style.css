@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+#container {
+    box-sizing: border-box;
+    width: 1120px;
+    margin: auto;
+    padding: 88px 80px;
+}
+
+.paragraph {
+    color: #E1624F;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding-bottom: 8px;
+}
+
+h1 {
+    margin: 0px auto 40px auto;
+    font-size: 36px;
+}
+
+.caption {
+    font-style: italic;
+    text-align: center;
+    width: 1120px;
+    padding: 24px 0;
+}
+
+img {
+    border-radius: 28px;
+}
+
+.divisor {
+    color: #D9D9D9;
+}
+
+
+h2 {
+    font-size: 32px;
+}
