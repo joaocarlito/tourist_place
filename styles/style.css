@@ -5,6 +5,7 @@
 
 :root {
     font-family: "Open Sans", sans-serif;
+    font-size: 16px;
 }
 
 #container {
@@ -17,7 +18,6 @@
 .paragraph {
     color: #E1624F;
     font-weight: 700;
-    font-size: 16px;
     text-transform: uppercase;
     padding-bottom: 8px;
 }
@@ -45,4 +45,62 @@ img {
 
 h2 {
     font-size: 32px;
+    padding-bottom: 8px;
+}
+
+main {
+    margin-top: 64px;
+}
+
+p {
+    width: 1120px;
+}
+
+.img01 {
+    margin: 64px 0 20px 0;
+}
+
+h3 {
+    font-size: 28px;
+    padding-bottom: 8px;
+}
+
+li {
+    font-weight: 700;
+    margin-left: 30px;
+}
+
+.blue { 
+    color: #0C51A7;
+}
+
+.img02, .img03 {
+    margin: 48px 0 20px 0;
+}
+
+.purple {
+    color: #591B98;
+}
+
+.pink {
+    color: #E5245E;
+}
+
+.orange {
+    color: #E95E10;
+}
+
+.divisor-back {
+    margin: 40px 0;
+}
+
+.paragraph-footer {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+footer {
+    text-align: center;
+    width: 1120px;
+    vertical-align: middle;
 }
